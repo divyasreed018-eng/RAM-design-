@@ -1,0 +1,7 @@
+Time=0  | WE=0 | Address=0 | Data_In=0   | Data_Out=x
+Time=10 | WE=1 | Address=0 | Data_In=25  | Data_Out=x
+Time=20 | WE=1 | Address=1 | Data_In=50  | Data_Out=x
+Time=30 | WE=1 | Address=2 | Data_In=100 | Data_Out=x
+Time=40 | WE=0 | Address=0 | Data_In=100 | Data_Out=25
+Time=50 | WE=0 | Address=1 | Data_In=100 | Data_Out=50
+Time=60 | WE=0 | Address=2 | Data_In=100 | Data_Out=100
